@@ -1,6 +1,6 @@
 source :rubygems
 
-group :test
+group :test do
 	gem 'graticule'
 	gem 'geocoder'
 end
